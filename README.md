@@ -1,0 +1,2 @@
+- 安装 `npm i docsify-cli -g`
+- 运行 `docsify serve ./docsify`
